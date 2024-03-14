@@ -15,6 +15,7 @@
 </style>
 </head>
 <body>
+
 <%@include file="Component/navbar.jsp" %>
 <div class="container p-5">
 		<div class="row">
@@ -55,6 +56,6 @@
 			</div>
 		</div>
 	</div>
-<%@include file="Component/footer.jsp" %>
+
 </body>
 </html>

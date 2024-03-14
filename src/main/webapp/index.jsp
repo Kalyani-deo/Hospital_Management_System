@@ -108,7 +108,7 @@
 			<div class="col-md-3">
 				<div class="card paint-card">
 					<div class="card-body text-center">
-						<img src="img/d8.jpg" width="250px" height="300px">
+						<img src="img/d1.jpg" width="250px" height="300px">
 						<p class="fw-bold fs-5">Samuani Simi</p>
 						<p class="fs-7">(CEO & Chairman)</p>
 					</div>
@@ -118,7 +118,7 @@
 			<div class="col-md-3">
 				<div class="card paint-card">
 					<div class="card-body text-center">
-						<img src="img/d9.jpg" width="250px" height="300px">
+						<img src="img/dddd1.jpg" width="250px" height="300px">
 						<p class="fw-bold fs-5">Dr.Siva Kumar</p>
 						<p class="fs-7">(Chief Doctor)</p>
 					</div>
@@ -128,7 +128,7 @@
 			<div class="col-md-3">
 				<div class="card paint-card">
 					<div class="card-body text-center">
-						<img src="img/d10.jpg" width="250px" height="300px">
+						<img src="img/dddd3.jpg" width="250px" height="300px">
 						<p class="fw-bold fs-5">Dr. Niuise Paule</p>
 						<p class="fs-7">(Chief Doctor)</p>
 					</div>
@@ -138,7 +138,7 @@
 			<div class="col-md-3">
 				<div class="card paint-card">
 					<div class="card-body text-center">
-						<img src="img/d11.jpg" width="250px" height="300px">
+						<img src="img/dddd6.jpg" width="250px" height="300px">
 						<p class="fw-bold fs-5">Dr. Mathue Samuel</p>
 						<p class="fs-7">(Chief Doctor)</p>
 					</div>

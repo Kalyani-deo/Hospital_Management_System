@@ -1,5 +1,7 @@
+
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
+     
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,7 +23,15 @@
 					<div class="card-body">
 						<p class="fs-4 text-center">Doctor Login</p>
 						
-						
+						<c:if test="${not empty sucMsg }">
+                            <p class="text-center text-success fs-3">${sucMsg }</p>
+                            <c:remove var="sucMsg" scope="session" />
+                            </c:if>	
+						   
+						   <c:if test="${not empty errorMsg }">
+							<p class="text-center text-danger fs-5">${errorMsg}</p>
+							<c:remove var="errorMsg" scope="session" />
+						</c:if>
 						
 						<form action="doctorLogin" method="post">
 							<div class="mb-3">
