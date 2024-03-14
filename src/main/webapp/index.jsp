@@ -85,8 +85,7 @@
 						<div class="card paint-card">
 							<div class="card-body">
 								<p class="fs-5">Medical Research</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-									Voluptatem, inventore</p>
+								<p>We prioritize and actively engage in various research endeavors to advance healthcare & improve patient outcomes. Cutting-Edge Research Facilities, Clinical Trials, Interdisciplinary Collaboration, Translational Research etc</p>
 							</div>
 						</div>
 					</div>
@@ -109,7 +108,7 @@
 				<div class="card paint-card">
 					<div class="card-body text-center">
 						<img src="img/d1.jpg" width="250px" height="300px">
-						<p class="fw-bold fs-5">Samuani Simi</p>
+						<p class="fw-bold fs-5">Dr. Aarav Patel</p>
 						<p class="fs-7">(CEO & Chairman)</p>
 					</div>
 				</div>
@@ -119,7 +118,7 @@
 				<div class="card paint-card">
 					<div class="card-body text-center">
 						<img src="img/dddd1.jpg" width="250px" height="300px">
-						<p class="fw-bold fs-5">Dr.Siva Kumar</p>
+						<p class="fw-bold fs-5">Dr. Arjun Mehta</p>
 						<p class="fs-7">(Chief Doctor)</p>
 					</div>
 				</div>
@@ -129,7 +128,7 @@
 				<div class="card paint-card">
 					<div class="card-body text-center">
 						<img src="img/dddd3.jpg" width="250px" height="300px">
-						<p class="fw-bold fs-5">Dr. Niuise Paule</p>
+						<p class="fw-bold fs-5">Dr. Anika Sharma</p>
 						<p class="fs-7">(Chief Doctor)</p>
 					</div>
 				</div>
@@ -139,7 +138,7 @@
 				<div class="card paint-card">
 					<div class="card-body text-center">
 						<img src="img/dddd6.jpg" width="250px" height="300px">
-						<p class="fw-bold fs-5">Dr. Mathue Samuel</p>
+						<p class="fw-bold fs-5">Dr. Rohan Kapoor</p>
 						<p class="fs-7">(Chief Doctor)</p>
 					</div>
 				</div>
