@@ -7,4 +7,4 @@ Database – MySQL
 
 Server– Apache tomcat server
 
-Tools – Eclipse Ide, MySQL workbench
+Tools – Eclipse Ide
